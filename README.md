@@ -13,6 +13,6 @@ The original resources can be find [here](https://missing.csail.mit.edu/).
 - [ ] Git
 - [ ] Debugging and Profiling
 - [ ] Meta-programming
-- [ ] Security & Cryptography
+- [x] Security & Cryptography
 - [ ] Potpourri
 - [ ] Q & A
